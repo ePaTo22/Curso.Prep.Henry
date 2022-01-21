@@ -1,0 +1,4 @@
+for: si pasa esto pasa, se imprime lo que sigue a continuacion
+&&: todos los valores tienen que ser verdaderos para que se evalue como verdaderos
+||: si un valor es verdadero se evaulua como verdadero
+!: se evalua como contrario al valor inicial
